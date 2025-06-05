@@ -1,6 +1,6 @@
                                                BlogTech
 
-[logo](https://github.com/Nereoz89/Capstone_BlogTech_FE/blob/main/frontend/src/assets/logo.png)
+![logo](https://github.com/Nereoz89/Capstone_BlogTech_FE/blob/main/frontend/src/assets/logo.png)
 
 BlogTech is a blog app for all those who want to feel part of a community where they can review and give advice by sharing opinions on everything related to the Tech universe.
 
